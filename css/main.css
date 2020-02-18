@@ -20,9 +20,6 @@ body{
 .taskLate{
     background-color: rgb(246, 218, 222) !important;
 }
-/* .taskLate:hover{
-    background-color:#efa424;
-} */
 
 .taskCompleted{
     background-color: rgb(182, 243, 182) !important;
@@ -31,7 +28,7 @@ body{
 .taskCard >img{
     width: 160px;
 }
-
+/* Button Styling */
 button {
     outline: none;
     border: none;
