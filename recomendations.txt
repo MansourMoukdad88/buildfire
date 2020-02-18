@@ -1,0 +1,12 @@
+#Javascript/Functionalities
+
+1. Need to be sure that all code written in ES6
+2. There are a `bug` when you try to add new task which is the date 'createdOn' and 'createdBy'
+3. There is an issue in turn the 'checkbox' when you 'checked'.
+3. Time formate needs to be more readable.
+
+#Css/Styling
+
+1. It's better the all content of the webpage to be inside the main container which has `margins`.
+2. There is unexacting behavior for the 'taskCard' for example: when the description to long, it extend the div width to be for the entire page which is not good behavior.
+3. Styling for the new task is missed.
